@@ -4,5 +4,11 @@
         "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0aab55f01befefc3",
+        "key": "naiemmart",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
