@@ -10,5 +10,11 @@
         "key": "naiemmart",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    }, 
+    {
+        "device_id": "7346f279388a9fc8",
+        "key": "8900",
+        "expirydate": "31-12-2029",
+        "Allowoffline": true
     }
 ]
