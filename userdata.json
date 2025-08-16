@@ -16,5 +16,11 @@
         "key": "8900",
         "expirydate": "31-12-2029",
         "Allowoffline": true
+    }, 
+    {
+        "device_id": "2cd2177c4c58b917",
+        "key": "8900",
+        "expirydate": "31-12-2029",
+        "Allowoffline": true
     }
 ]
