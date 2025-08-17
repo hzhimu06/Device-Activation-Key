@@ -22,5 +22,11 @@
         "key": "8900",
         "expirydate": "31-12-2029",
         "Allowoffline": true
-    }
+    },
+    {
+        "device_id": "d1000914b2681d8f",
+        "key": "gtv",
+        "expirydate": "31-12-2029",
+        "Allowoffline": true
+    }, 
 ]
