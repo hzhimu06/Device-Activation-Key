@@ -28,5 +28,11 @@
         "key": "gtv",
         "expirydate": "31-12-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9097c969fa26ea6d",
+        "key": "Sag890",
+        "expirydate": "31-12-2029",
+        "Allowoffline": true
     }, 
 ]
