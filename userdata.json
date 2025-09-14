@@ -34,5 +34,11 @@
         "key": "Sag890",
         "expirydate": "31-12-2029",
         "Allowoffline": true
-    }, 
+    },
+    {
+        "device_id": "e342993bd51b53dd",
+        "key": "Avi8900",
+        "expirydate": "31-12-2029",
+        "Allowoffline": true
+    },
 ]
